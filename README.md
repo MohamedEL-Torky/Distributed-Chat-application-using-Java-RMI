@@ -79,3 +79,5 @@ Bonus feature:
 primary server fails, initiate a primary (leader) election algorithm (e.g. Bully
 Algorithm, Ring Algorithm) to select the new primary (leader) server from the three
 (or more) secondary servers.
+
+Note the election alogrithm which was used in this project was bully alogrithm.
