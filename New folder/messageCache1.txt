@@ -1,0 +1,8 @@
+Hi
+					B: hello A 2018/12/21 21:39
+					C: Hello A 2018/12/21 21:39
+					C: Whats up B 2018/12/21 21:39
+					B: I am doing great, thnx C 2018/12/21 21:40
+So, how life going ??
+					C: every thing in order, i guess 2018/12/21 21:41
+					B: same to me 2018/12/21 21:41
