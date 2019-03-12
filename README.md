@@ -4,6 +4,7 @@ Project Spesfications:
 The project is divided into two parts main parts and a bonus feature which was implemented using Java and java RMI to create a distributed chat application.
 
 Phase I:
+
 • Implement a simple distributed chat application using Java RMI.
 • The system should have at least three chat nodes in a chat room where each node
 can send and receive chat messages from other nodes (each node works as a client
@@ -30,6 +31,7 @@ o Assumptions:
 everything to stop).
 
 Phase II:
+
 • Implement a simple backup service. The backup service consists of the following:
 o Two backup servers (primary, secondary).
 o Four or more replication nodes.
@@ -51,6 +53,7 @@ server and upon primary failure, the chat nodes start sending their requests to 
 secondary server instead.
 
 Bonus feature:
+
 • Make two or more additional secondary backup server and when the
 primary server fails, initiate a primary (leader) election algorithm (e.g. Bully
 Algorithm, Ring Algorithm) to select the new primary (leader) server from the three
