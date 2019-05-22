@@ -4,7 +4,7 @@ Project Spesfications:
 
 The project is divided into two parts main parts and a bonus feature which was implemented using Java and java RMI to create a distributed chat application.
 
-Phase I:
+## Phase I:
 
 • Implement a simple distributed chat application using Java RMI.
 
@@ -43,7 +43,7 @@ o Assumptions:
 
 everything to stop).
 
-Phase II:
+## Phase II:
 
 • Implement a simple backup service. The backup service consists of the following:
 
@@ -73,7 +73,7 @@ records of replication nodes.
 server and upon primary failure, the chat nodes start sending their requests to the
 secondary server instead.
 
-Bonus feature:
+## Bonus feature:
 
 • Make two or more additional secondary backup server and when the
 primary server fails, initiate a primary (leader) election algorithm (e.g. Bully
